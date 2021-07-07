@@ -1,0 +1,37 @@
+.box-icon {
+    display: flex;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo-img {
+    height: 50%;
+    width: 70%;
+    margin-bottom: -100px;
+}
+
+.brand-title {
+    display: flex;
+    flex-direction: row;
+    font-size: 10vh;
+    color: #fff;
+    -webkit-text-stroke: 0.5px #1f2421;
+    margin-bottom: 30px;
+}
+
+.brand-title .glazz {
+    color: #003554;
+    
+}
+
+.description {
+    font-size: 3vh;
+    color: white;
+    -webkit-text-stroke: 0.2px #1f2421;
+}
+
