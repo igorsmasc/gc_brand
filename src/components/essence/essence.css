@@ -8,7 +8,7 @@
     flex-wrap: wrap;
 }
 
-.text_part {
+.text-part {
     display: flex;
     flex: 1;
     justify-content: center;
@@ -16,7 +16,7 @@
     flex-direction: column;
 }
 
-.img_part {
+.img-part {
     display: flex;
     flex: 1;
     justify-content: center;
@@ -39,19 +39,20 @@
     
 }
 
-.title_2 {
+.title-2 {
     display: flex;
 }
 
-.text_blue {
+.text-blue {
     color: #006494;
 }
 
-p {
+.title-text {
     display: flex;
     font-size: 20px;
     width: 370px;
     font-weight: lighter;
+    line-height: 1.5;
 }
 
 .button {

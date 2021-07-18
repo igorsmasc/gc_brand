@@ -1,0 +1,49 @@
+.who-we-are {
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.wwa-title {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.wwa-text {
+    display: flex;
+    flex: 1;
+}
+
+.wwa-title-text {
+    display: flex;
+    align-items: flex-start;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.wwa-title-1 {
+    font-size: 57px;
+    font-weight: bold;
+    color: #006494;
+    display: flex;
+}
+
+.light-blue {
+    color: #00a6fb;
+}
+
+.wwa-text {
+    font-size: 20px;
+}
+
+.wwa-text-content {
+    width: 700px;
+    font-weight: lighter;
+    line-height: 1.5;
+}
