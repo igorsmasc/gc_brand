@@ -4,6 +4,7 @@ import Colors from './components/colors/colors';
 import CoreValues from './components/core-values/core-values';
 import Essence from './components/essence/essence';
 import TheOutlaw from './components/the-outlaw/the-outlaw';
+import Typography from './components/typography/typography';
 import WhoWeAre from './components/who-we-are/who-we-are';
 
 
@@ -16,6 +17,7 @@ function App() {
         <CoreValues />
         <TheOutlaw />
         <Colors />
+        <Typography />
       </div>
 
 }
