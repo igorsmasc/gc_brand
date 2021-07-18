@@ -1,11 +1,13 @@
 import './App.css';
 import Brand from './components/brand/brand';
+import Essence from './components/essence/essence';
 
 
 
 function App() {
   return <div className="App">
-        <Brand />
+        {/* <Brand /> */}
+        <Essence />
       </div>
 
 }
