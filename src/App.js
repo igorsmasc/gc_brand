@@ -1,5 +1,6 @@
 import './App.css';
 import Brand from './components/brand/brand';
+import Colors from './components/colors/colors';
 import CoreValues from './components/core-values/core-values';
 import Essence from './components/essence/essence';
 import TheOutlaw from './components/the-outlaw/the-outlaw';
@@ -14,6 +15,7 @@ function App() {
         <WhoWeAre />
         <CoreValues />
         <TheOutlaw />
+        <Colors />
       </div>
 
 }
