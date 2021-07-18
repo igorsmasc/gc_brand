@@ -15,7 +15,7 @@ export default function Colors() {
         <div className="colors-text">
             <div>
                 <div align="left" className="colors-title">Colors</div>
-                <div align="left" className="colors-text">
+                <div align="justify" className="colors-text">
                     Due to the combination of calming and mentally
                     stimulating e ects, color blue can even increase
                     productivity. Being associated with trust and 

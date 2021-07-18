@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+}
+
+.header-options {
+    display: flex;
+    justify-content: space-around;
+    flex: 4;
+    font-size: 20px;
+}
+
+.header-options-content {
+    display: flex;
+}
+
+.header-empty {
+    flex: 2;
+}
+
+.header-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 2;
+    font-size: 20px;
+}
+
+.header-button {
+    color: white;
+    font-size: 20px;
+    background-color: #006494;
+    width: 140px;
+    border-radius: 3px;
+    padding: 12px;
+    cursor: pointer;
+    margin-left: 20px;
+}
