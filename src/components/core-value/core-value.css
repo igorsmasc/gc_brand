@@ -1,0 +1,38 @@
+.core-value {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+
+.core-value-title-number {
+    font-size: 100px;
+    font-weight: bold;
+    color: #00a6fb;
+    opacity: 0.2;
+}
+
+.core-value-title-text {
+    font-size: 35px;
+    font-weight: bold;
+    display: flex;
+    align-items: flex-end;
+    margin-left: -25px;
+}
+
+.core-value-img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.core-value-title {
+    display: flex;
+}
+
+.core-value-text {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    line-height: 1.5;
+}
