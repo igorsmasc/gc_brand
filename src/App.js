@@ -1,4 +1,5 @@
 import './App.css';
+import BrandImage from './components/brand-image/brand-image';
 import Brand from './components/brand/brand';
 import Colors from './components/colors/colors';
 import CoreValues from './components/core-values/core-values';
@@ -18,6 +19,7 @@ function App() {
         <TheOutlaw />
         <Colors />
         <Typography />
+        <BrandImage />
       </div>
 
 }
