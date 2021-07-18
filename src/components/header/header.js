@@ -6,13 +6,13 @@ export default function Header() {
     return <div className="header">
         <div className="header-empty"></div>
         <div className="header-options">
-            <div>Who we are</div>
-                    <div>Archetype</div>
-                    <div>Visual Identity</div>
-                    <div>Imagery</div>
+            <div className="header-link">Who we are</div>
+            <div className="header-link">Archetype</div>
+            <div className="header-link">Visual Identity</div>
+            <div className="header-link">Imagery</div>
             </div>
         <div className="header-buttons">
-            <div>Sign in</div>
+            <div  className="header-link">Sign in</div>
             <div></div>
             <div className="header-button">Start now</div>
         </div>

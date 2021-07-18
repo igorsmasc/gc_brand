@@ -20,6 +20,10 @@
     flex: 2;
 }
 
+.header-link {
+    cursor: pointer;
+}
+
 .header-buttons {
     display: flex;
     justify-content: center;

@@ -5,6 +5,7 @@ import Brand from './components/brand/brand';
 import Colors from './components/colors/colors';
 import CoreValues from './components/core-values/core-values';
 import Essence from './components/essence/essence';
+import Footer from './components/footer/footer';
 import Header from './components/header/header';
 import TheOutlaw from './components/the-outlaw/the-outlaw';
 import Typography from './components/typography/typography';
@@ -24,6 +25,7 @@ function App() {
         <Colors />
         <Typography />
         <BrandImage />
+        <Footer />
       </div>
 
 }
