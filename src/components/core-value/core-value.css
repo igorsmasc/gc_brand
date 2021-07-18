@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 300px;
+    width: 400px;
 }
 
 .core-value-title-number {
@@ -22,7 +22,7 @@
 }
 
 .core-value-img {
-    width: 300px;
+    width: 400px;
     border-radius: 10px;
 }
 

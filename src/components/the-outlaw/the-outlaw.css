@@ -1,0 +1,44 @@
+.the-outlaw {
+    height: 80vh;
+    width: 100vw;
+    background-color: #003554;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.the-outlaw-title {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.the-outlaw-text {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.the-outlaw-title-minor {
+    font-size: 25px;
+}
+
+.the-outlaw-title-major {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.the-outlaw-text-content {
+    width: 700px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.5;
+}
+

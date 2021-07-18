@@ -2,6 +2,7 @@ import './App.css';
 import Brand from './components/brand/brand';
 import CoreValues from './components/core-values/core-values';
 import Essence from './components/essence/essence';
+import TheOutlaw from './components/the-outlaw/the-outlaw';
 import WhoWeAre from './components/who-we-are/who-we-are';
 
 
@@ -12,6 +13,7 @@ function App() {
         <Essence />
         <WhoWeAre />
         <CoreValues />
+        <TheOutlaw />
       </div>
 
 }
